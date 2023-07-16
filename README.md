@@ -6,10 +6,7 @@ This repository contains the code and resources for a hill climb racing game tha
 
 This project utilizes the following technologies and libraries:
 
-Python: The primary programming language for the project.
-
-OpenCV: Used for image processing and hand detection.
-
-PyAutoGui: An automation library that allows mouse and keyboard control
-
-MediaPipe: A framework for building multimodal applied machine learning pipelines, used here for hand tracking.
+* Python: The primary programming language for the project.
+* OpenCV: Used for image processing and hand detection.
+* PyAutoGui: An automation library that allows mouse and keyboard control
+* MediaPipe: A framework for building multimodal applied machine learning pipelines, used here for hand tracking.
